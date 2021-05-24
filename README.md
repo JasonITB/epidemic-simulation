@@ -4,6 +4,7 @@ Creted by jasonitb
 email - JJJAASOONNNITB@gmail.com
 
 This simulates the growth of viruses
+https://www.youtube.com/watch?v=27H0kCSR94g&t=1s
 
 possibal error resons
 values gone above macimum int value 2,147,483,647
