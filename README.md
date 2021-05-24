@@ -3,6 +3,8 @@
 Creted by jasonitb
 email - JJJAASOONNNITB@gmail.com
 
+This simulates the growth of viruses
+
 possibal error resons
 values gone above macimum int value 2,147,483,647
 the virus is too stong that it gone to the unprotected era
